@@ -254,7 +254,7 @@ class Summerizer(object):
 
 
     def selection(self, population):
-        max_sent = 5
+        max_sent = 4
         condition_for_survivor = 0 # khoong co survivor
         tmp_popu = population.copy()
         new_population = []
