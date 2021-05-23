@@ -1,0 +1,4 @@
+Brazilian star Oscar says he is happy at Chelsea and wo n't be leaving Stamford Bridge in the summer
+There have been suggestions that the 23-year-old could be offloaded by Jose Mourinho having not completed
+Brazilian star Oscar in action for Chelsea at Queens Park Rangers on Sunday
+full 90 minutes for Chelsea since February

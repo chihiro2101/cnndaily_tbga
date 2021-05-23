@@ -1,0 +1,4 @@
+With the new Avengers
+Age of Ultron movie released this week
+Chris Hemsworth and Scarlett Johansson
+Ricoh Black Rams and Highlanders in New Zealand

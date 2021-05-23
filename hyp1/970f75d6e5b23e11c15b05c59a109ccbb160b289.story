@@ -1,0 +1,4 @@
+-LRB- CNN -RRB- Since Iran 's Islamic Revolution in 1979
+women have been barred from attending most sports events involving men
+But the situation appears set to improve in the coming months after
+top Iranian sports official said that the ban will be lifted for some events

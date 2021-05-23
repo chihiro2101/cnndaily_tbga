@@ -7,7 +7,7 @@ import re
 import nltk
 nltk.download('stopwords')
 from sklearn.metrics.pairwise import cosine_similarity
-
+nltk.download('averaged_perceptron_tagger')
 
 def sim_2_sent(df_tfidf):
     matrix_cossim = cosine_similarity(df_tfidf, df_tfidf)
