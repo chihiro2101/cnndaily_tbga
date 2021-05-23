@@ -576,7 +576,7 @@ def multiprocess(num_process, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE, stori
     set_of_docs = [stories[i:i + n] for i in range(0, len(stories), n)] 
     for index, sub_stories in enumerate(set_of_docs):
         p = multiprocessing.Process(target=start_run, args=(
-            index, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE,sub_stories, save_path[index], 1))
+            index, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE,sub_stories, save_path[index], 0))
         processes.append(p)
         p.start()      
     for p in processes:

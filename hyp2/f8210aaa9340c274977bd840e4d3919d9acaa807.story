@@ -1,4 +1,0 @@
-Ephedra foeminea -LRB- pictured -RRB- waits for the full moon to bloom and produces
-sugary droplet to attract pollinating insects
-peculiar plant does rely on the lunar cycle to survive
-Researchers from Stockholm University noticed the droplets at the same time of the year having conducted four years of research

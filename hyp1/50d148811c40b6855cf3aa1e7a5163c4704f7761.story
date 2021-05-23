@@ -1,4 +1,0 @@
-A teenager is in intensive care after he drunkenly slid down
-glass shopping centre roof and crashed onto stone steps
-Jacob Polyakov cracked his head on the floor after plunging off the edge of the SEC
-His friend Jamal Maslow

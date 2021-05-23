@@ -1,4 +1,0 @@
-Former Olympic swimmer Eamon Sullivan has revealed the details of his romantic proposal to his girlfriend
-Perth lawyer Naomi Bass
-walk one evening when Bass mentioned how the beautiful setting among the cherry blossom trees would be perfect for
-Former Olympic swimmer Eamon Sullivan and girlfriend Naomi Bass recently got engaged on
