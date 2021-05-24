@@ -254,7 +254,7 @@ class Summerizer(object):
 
 
     def selection(self, population):
-        max_sent = 4
+        max_sent = 5
         condition_for_survivor = 0 # khoong co survivor
         tmp_popu = population.copy()
         new_population = []
@@ -570,13 +570,14 @@ def start_run(processID, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE, sub_storie
             Solver.show(best_individual, file_name)
        
 
-def multiprocess(num_process, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE, stories, save_path):
+def multiprocess(num_process, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE, stories, save_path, index_of_set_paras):
+    print("The number of processes: %d" %(num_process))
     processes = []
     n = math.floor(len(stories)/5)
     set_of_docs = [stories[i:i + n] for i in range(0, len(stories), n)] 
     for index, sub_stories in enumerate(set_of_docs):
         p = multiprocessing.Process(target=start_run, args=(
-            index, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE,sub_stories, save_path[index], 0))
+            index, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE,sub_stories, save_path[index], index_of_set_paras))
         processes.append(p)
         p.start()      
     for p in processes:
@@ -589,6 +590,7 @@ def main():
     MAX_GEN = 200
     CROSS_RATE = 0.8
     MUTATE_RATE = 0.4
+    index_of_set_paras = 0
 
     directory = 'stories'
     save_path=['hyp1', 'hyp2', 'hyp3', 'hyp4', 'hyp5']
@@ -615,9 +617,9 @@ def main():
     stories = load_docs(directory)
     start_time = time.time()
 
-    # start_run(1, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE, stories, save_path[0], 1)
+    # start_run(1, POPU_SIZE, MAX_GEN, CROSS_RATE, MUTATE_RATE, stories, save_path[0], index_of_set_paras)
     multiprocess(5, POPU_SIZE, MAX_GEN, CROSS_RATE,
-                 MUTATE_RATE, stories, save_path)
+                 MUTATE_RATE, stories, save_path, index_of_set_paras)
 
     print("--- %s mins ---" % ((time.time() - start_time)/(60.0*len(stories))))
 
