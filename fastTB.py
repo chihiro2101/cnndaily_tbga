@@ -590,7 +590,7 @@ def main():
     MAX_GEN = 200
     CROSS_RATE = 0.8
     MUTATE_RATE = 0.4
-    index_of_set_paras = 0
+    index_of_set_paras = 1
 
     directory = 'stories'
     save_path=['hyp1', 'hyp2', 'hyp3', 'hyp4', 'hyp5']
