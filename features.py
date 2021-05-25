@@ -123,7 +123,14 @@ class METRIC(object):
             pos = 0.15
             noun = 0.3
             fit = pos*self.position() + rel*self.relationT() + le*self.leng() + noun*self.scale_noun()
-        
+        if self.order_params == 2:
+            # parameters set 0
+            rel = 0.25
+            le = 0.25
+            pos = 0.1
+            noun = 0.25
+            cov = 0.15
+            fit = pos*self.position() + rel*self.relationT() + le*self.leng() + noun*self.scale_noun() + cov*self.Cov()
         # My
         # rel = 0.25
         # le  = 0.3
