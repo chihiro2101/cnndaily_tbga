@@ -1,0 +1,5 @@
+The NFL is set to hire Sarah Thomas as its first permanent female official for regular season games
+The 42-year-old mother-of-three from Mississippi has officiated pre-season games as
+The Baltimore Sun 's Aaron Wilson broke the story
+The Los Angeles Times reported that Thomas will be one of eight new officials for the 2015 season
+Sarah Thomas is set to become the NFL 's first full-time female official after refereeing college games

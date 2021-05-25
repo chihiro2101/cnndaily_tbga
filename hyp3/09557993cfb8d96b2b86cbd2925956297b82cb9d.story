@@ -1,0 +1,5 @@
+England Under 21 captain Jack Butland has revealed voting for team-mate Harry Kane as this season 's PFA Young Player of the Year and hopes the Tottenham hotshot can help him emulate goalkeeping skipper Iker Casillas at the European Championship in the Czech Republic this summer
+Butland joined his England manager Gareth Southgate and former World Cup legend Michael Owen at St George 's Park on St George 's Day as around 35 local schoolchildren from the east Midlands were put through their paces by FA skills coaches at England 's plush headquarters
+The 22-year-old Stoke City goalkeeper is bidding to be the first England captain to lift the European Under 21 championship since Dave Sexton 's team won the trophy in 1984 and Kane is expected to be
+England U21 captain Jack Butland joined manager Gareth Southgate at St George 's Park on Thursday
+FA chief Greg Dyke has said that Kane 's agent had called him to say the Spurs striker wanted to be part of the Three Lions team in June even though he has to go to Australia first for
