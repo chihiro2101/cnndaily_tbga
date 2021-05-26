@@ -1,0 +1,5 @@
+Boston -LRB- CNN -RRB- The Boston Marathon is traditionally an event in which people in and around the Massachusetts capital come together
+when three people died and over 200 were injured when
+member of the jury that convicted Dzhokhar Tsarnaev in the bombings
+`` Do not attend the Boston Marathon or any events or gatherings related to the anniversary or the current running of the Boston Marathon
+'' But Clarke argued that Dzhokhar Tsarnaev only took part in the plot under the influence of his brother Tamerlan Tsarnaev
