@@ -1,5 +1,0 @@
-Bradley Dew has been jailed for mugging his deaf friend to steal his mobile phone and
-A thug has been jailed after he mugged his deaf friend to steal his mobile phone and
-pub in Faversham in Kent earlier that day and had borrowed his mobile
-But later in the evening Dew returned to his friend 's home
-jury at Maidstone Crown Court -LRB- pictured -RRB- .

@@ -1,5 +1,0 @@
-Former Real Madrid ace Kaka and Canadian international Cyle Larin proved the difference as Orlando City earned all three points against Portland Timbers at
-Canadian international Larin reacted quickest to chest home the delivery of Kevin Molino in the first-half before Kaka sealed the win with
-Former Real Madrid ace Kaka runs at the Portland Timbers defence at Providence Park in Oregon
-all eyes were on former Real Madrid ace Kaka as traveling Orlando looked to continue their unbeaten away run
-Kaka 's second-half penatly helped Orlando City win their second away game of the season
